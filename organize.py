@@ -4,7 +4,7 @@ import tempfile
 import time
 from pathlib import Path
 
-SRC_DIR = R"C:\Sources\winbindex-data-insider\manifests\builds\92ec64ac-7c04-4309-b3cc-50e40cbcb609"
+SRC_DIR = R"C:\Sources\winbindex-data-insider_gh-pages\manifests\builds\b9de0e0d-094c-4371-b890-ecda00da6663"
 RESOURCE_HACKER = R"C:\Program Files (x86)\Resource Hacker\ResourceHacker.exe"
 PRI_INFO = R"C:\Sources\PriTools\PriInfo\bin\Debug\net8.0\PriInfo.exe"
 
